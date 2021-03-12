@@ -115,7 +115,7 @@ function App() {
                     Mirza Iqbal
                   </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
-                    Hey this is Mirza Iqbal, i'm an Electrical Engineer and a Web Developer. I done by B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu and Kashmir.
+                    Hey this is Mirza Iqbal, i'm an Electrical Engineer and a Web Developer. I done my B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu and Kashmir.
                   </Typography>
                 </CardContent>
               </CardActionArea>
@@ -163,7 +163,7 @@ function App() {
                     Shoaib Mir
                   </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
-                    Hey, this is Shoaib Mir, i'm an Electrical Engineer and a Web Developer. I done by B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu And Kashmir.
+                    Hey, this is Shoaib Mir, i'm an Electrical Engineer and a Web Developer. I done my B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu And Kashmir.
                   </Typography>
                 </CardContent>
               </CardActionArea>
@@ -213,7 +213,7 @@ function App() {
                     Mohd Imran Tantray
                   </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
-                    Hey, this is Mohd Imran Tantray, i'm an Electronics Engineer. I done by B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu and Kashmir.
+                    Hey, this is Mohd Imran Tantray, i'm an Electronics Engineer. I done my B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu and Kashmir.
                   </Typography>
                 </CardContent>
               </CardActionArea>
@@ -263,7 +263,7 @@ function App() {
                     Iftikhar Hussain
                   </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
-                    Hey, this is Iftikhar Hussain, i'm an Electrical Engineer and a Blogger. I done by B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu and Kashmir.
+                    Hey, this is Iftikhar Hussain, i'm an Electrical Engineer and a Blogger. I done my B.Tech from Baba Ghulam Shah Badshah University located at Rajouri in Jammu and Kashmir.
                   </Typography>
                 </CardContent>
               </CardActionArea>

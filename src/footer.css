@@ -14,3 +14,12 @@
       padding: 10px;
   }
  
+  @media(max-width: 850px){
+      .footer-container{
+          display: inline-block;
+          padding-left: 10px;
+          width: 100%;
+          height: 50px;
+          
+      }
+  }

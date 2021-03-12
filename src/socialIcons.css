@@ -33,3 +33,11 @@
     color: rgb(129, 16, 16);
   }
   
+  @media(max-width: 850px){
+    .social-container{
+      width: 100%;
+      padding: 10px 20px;
+      display: inline-block;
+      text-align: center;
+    }
+  }
